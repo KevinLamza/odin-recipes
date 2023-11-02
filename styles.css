@@ -1,0 +1,28 @@
+.title {
+    background-color: rgb(170, 108, 229);
+    color: white;
+    font-size: 40px;
+    text-align: center;
+}
+
+.header {
+    background-color: rgb(170, 108, 229);
+    font-size: 40px;
+    color: white;
+}
+
+.bg_yellow {
+    background-color: yellow;
+}
+
+.bg_red {
+    background-color: red;
+}
+
+.bg_green {
+    background-color: green;
+}
+
+* {
+    font-family: Tahoma, sans-serif;
+}
